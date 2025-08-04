@@ -72,7 +72,7 @@ The framework consists of four main stages:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/MPNN-Frag-ML-Discovery.git
+git clone https://github.com/Bib569/MPNN-Frag-ML-Discovery.git
 cd MPNN-Frag-ML-Discovery
 
 # Set up a virtual environment (optional but recommended)
