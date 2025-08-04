@@ -145,7 +145,7 @@ python DMPNN_pred.py
 - `ADA_Data_With_Tags.csv`: Fragmented molecular components with tags
 - `D.csv`, `A.csv`, `S.csv`, `C.csv`: Clustered fragment libraries
 - `Join_ADA.csv`: Combined optimal fragment data
-- Generated molecular library (500k molecules)
+- `New_Molecules.csv`: Generated molecular library (500k molecules)
 - Trained MPNN models with uncertainty quantification
 
 ## Model Details
@@ -256,7 +256,7 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-For questions or feedback, please [open an issue](https://github.com/[username]/MPNN-Frag-ML-Discovery/issues) or contact:
+For questions or feedback, please [open an issue](https://github.com/Bib569/MPNN-Frag-ML-Discovery/issues) or contact:
 
 - **Anirban Mondal**: amondal@iitgn.ac.in
 - **Bibhas Das**: dasbibhas@iitgn.ac.in
