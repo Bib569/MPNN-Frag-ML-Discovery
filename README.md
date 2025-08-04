@@ -42,7 +42,7 @@ This repository provides a comprehensive computational framework for the rationa
 
 The framework consists of four main stages:
 
-1. **Automated Fragmentation (`Preprocessing.py`)**: Process molecular data to fragment 300 curated NFAs into donor cores, acceptor units, side chains, and conjugated extensions using automated ADA (Acceptor-Donor-Acceptor) analysis
+1. **Automated Fragmentation (`Preprocessing.py`)**: Process molecular data to fragment 257 curated NFAs into donor cores, acceptor units, side chains, and conjugated extensions using automated fragmentation
 2. **Hierarchical Clustering (`Clustering.py`)**: Apply unsupervised clustering to identify optimal fragment combinations based on optoelectronic properties and create filtered libraries of high-performance components
 3. **Combinatorial Assembly (`joining.py`)**: Generate 500,000 synthetically viable NFA molecules through intelligent combinatorial assembly with diversity tracking and tag-based molecular reconstruction
 4. **Evidential Neural Network Training (`DMPNN_pred.py`)**: Train Message Passing Neural Networks (MPNNs) with evidential learning to predict key optoelectronic properties with built-in uncertainty quantification
