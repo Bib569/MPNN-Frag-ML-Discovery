@@ -73,7 +73,7 @@ The framework consists of four main stages:
 ```bash
 # Clone the repository
 git clone https://github.com/[username]/NFA-ML-Discovery.git
-cd NFA-ML-Discovery
+cd MPNN-Frag-ML-Discovery
 
 # Set up a virtual environment (optional but recommended)
 python -m venv venv
