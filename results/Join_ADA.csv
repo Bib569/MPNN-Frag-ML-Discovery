@@ -1,0 +1,17 @@
+Donor Core Smiles,Acceptors Smiles,Side Chains Smiles,Conjugated Extensions Smiles,Donor to Acceptor Tags,Donor to Side Chain Tags,Donor to Conjugated Extension Tags,Conjugated Extensions to Acceptors Tags,Conjugated Extensions to Side Chains Tags,Conjugated Extensions to Donor Tags,Donor Cluster,Acceptor Cluster,Side Chain Cluster,Conjugated Extension Cluster
+[Dy][C]1=CC2=C(C=C1)C1C=C[C]([Mt])=CC1C21C2=C(C=CC=C2)C2=C1C=CC=C2,CC(C)C1=CC=CC(C(C)C)=C1N([C](=O)[Cd])[C](=O)[Cd],CC(C)(C)C[CH2][InH2],IC1(I)C2=CC3=C(C=C2C2=C1C=[C]([BaH])S2)C(I)(I)C1=C3SC(C2=CC=C3C4=C[C]([Fr])=[C]([Tl])C5C4=C(C=[C]([Fr])[CH]5[Tl])C4=CC=CC2=C34)=C1,[],[],"[109, 66]","[81, 81]","[53, 53, 53, 53, 87, 87]",[56],1,0.0,2.0,2.0
+[Er][C]1=[C]([Nh])C=C2C3=C[C]([Nh])=[C]([Tl])C4=C3C(=C[C]([Nh])=[C]4[Tl])C3=C2C1[CH]([Er])[C]([Nh])=C3,,CC(C)(C)[CH2][InH2],[Ta][C]1=CC2=C3C(=C[C]([Ta])=[C]([Au])C3[CH]1[Au])C1=CC=C(C3=CC4=C(S3)[C]([Rf])=C3C=[C]([Th])SC3=[C]4[Rf])C3=C1C2=CC=C3,"[68, 81, 68, 81]","[113, 113, 113, 113]",[],"[79, 79]","[104, 104, 73, 73]",[90],1,,0.0,2.0
+[TeH]C1=CC2=C3C(=CC([TeH])=[C]([Cn])C3[CH]1[Cn])C1=CC([TeH])=[C]([Tl])C3=C1C2=CC([TeH])=[C]3[Tl],,CC(C)OCC[CH2][InH2],[SnH][C]1=[C]([Am])C=C2C3=CC=C(C4=CC5=C(C=[C]([BiH2])S5)S4)C4=C3C(=CC=C4)C3=C2C1[CH]([SnH])[C]([Am])=C3,"[112, 81, 112, 81]","[52, 52, 52, 52]",[],"[50, 50]","[95, 95]",[83],1,,2.0,2.0
+[Pm][C]1=CC=C2C3=CC=[C]([Hg])C4=C3C3=C(C=[C]4[Hg])C4=CC5=C(C=C4C4=C[CH]([Pm])C1C2=C43)[C@H]1C2=C(C=CC=C2)[C@@H]5C2=C1C=CC=C2,CCCCC1(CCCC)C2=CC(N3C(=O)C4=CC=CC5=C4C(=CC=C5C#[C][Cd])C3=O)=CC=C2C2=C1C=CC=C2,CCCCC(CC)CSC1=CC=[C]([InH2])C=C1,[Ds][C]1=[C]([Rg])C=C2C3=CC=C(C4=CC=C(C5=CC=[C]([Ts])S5)S4)C4=C3C(=CC=C4)C3=C2C1[CH]([Ds])[C]([Rg])=C3,"[61, 80, 61, 80]",[],[],"[110, 110]","[111, 111]",[117],2,1.0,0.0,2.0
+[La][C]1=CC=C2C3=[C]([Cf])C=[C]([Hf])C4=C3C(=CC=[C]4[Hf])C3=C2C1[CH]([La])C=[C]3[Cf],CCCCCC(CCCCC)N([C](=O)[Cd])[C](=O)[Cd],CCCCC(CC)C[CH2][InH2],[Ce][C]1=[C]([Nh])C=C2C3=CC=C(C4=CC=[C]([Mc])C=C4)C4=C3C(=CC=C4)C3=C2C1[CH]([Ce])[C]([Nh])=C3,"[57, 72, 57, 72]","[98, 98]",[],"[58, 58]","[113, 113]",[115],2,0.0,0.0,2.0
+[XeH]C1=[C]([Ir])C=C2C3=C[C]([Ir])=[C]([Cf])C4=C3C(=C[C]([Ir])=[C]4[Cf])C3=C2C1C([XeH])[C]([Ir])=C3,CCCCCC(CCCCC)N1C(=O)C2=CC=C3C4=C5C(=C6CC=C(C1=O)C2=C36)CC=[C]([Cd])C5=[C]([Cd])C=C4,CCCCC(CC)C[O][InH2],[BaH][C]1=CC2=C3C(=C[C]([BaH])=[C]([Pa])C3[CH]1[Pa])C1=CC=C(C3=CC=[C]([Th])S3)C3=C1C2=CC=C3,"[54, 98, 54, 98]","[77, 77, 77, 77]",[],"[91, 91]","[56, 56]",[90],2,0.0,0.0,2.0
+[Cs][C]1([Cs])c2c[c]([Gd])ccc2c2cc[c]([Os])cc21,,,,[],"[55, 55]","[76, 64]",,,,1,,,
+[OH][Pa],,,,[],[],[91],,,,1,,,
+[Nd][C]1=C[C]([Lu])=[C]([Ts])C2=C1[C]([Nd])=[C]([Ds])C=[C]2[Ts],,,,"[60, 117, 117, 60]","[110, 71]",[],,,,2,,,
+[Yb][C]1=CC=C2C(=C1)[Si]([Ac])([Ac])C1=C2C=C[C]([U])=C1,,,,[],"[89, 89]","[70, 92]",,,,1,,,
+[Tb][C]1=CC2=C(C=C1)C1=C(C=[C]([Yb])C=C1)[N]2[Pu],,,,[],[94],"[65, 70]",,,,1,,,
+[Tm][C]1=CC=C2C3=NC4=C(C=C5N=C6C7=CC=[C]([Ds])C8=C7C(=CC=[C]8[Ds])C6=[C]([Mc])C5=C4)[C]([Mc])=C3C3=CC=[C]([Tm])C1=C23,,,,"[69, 110, 69, 110]","[115, 115]",[],,,,1,,,
+[Hf][C]1=C2N=C3C4=CC=[C]([U])C5=[C]([U])C=CC(=C45)C3=NC2=[C]([Hf])C2=NC3=C(N=C21)C1=CC=[C]([Np])C2=[C]([Np])C=CC3=C12,,,,"[92, 93, 92, 93]","[72, 72]",[],,,,1,,,
+[Nd][C]1=C2C=CC=C3C4=CC=[C]([Cf])C5=C4C(=CC=[C]5[Cf])C(=C32)C=C1,,,,"[98, 98]",[],[60],,,,1,,,
+[Gd][C]1=CC=CC2=C1[C]([Gd])=CC=[C]2[Pt],,,,"[64, 64]","[64, 64]",[78],,,,1,,,
+[Rf][C]1=CC=[C]([Og])C2=NSN=C12,,,,[],[],"[104, 118]",,,,1,,,
