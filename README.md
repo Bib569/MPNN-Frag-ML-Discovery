@@ -3,7 +3,7 @@ An uncertainty-aware machine learning framework for high-throughput design of no
 
 ## Overview
 
-This project implements a comprehensive computational framework that integrates data-driven molecular design with uncertainty-aware machine learning to accelerate the discovery of high-performance non-fullerene acceptors for organic photovoltaics (OPVs). Starting from a curated dataset of 300 NFAs, the framework applies automated fragmentation, hierarchical clustering, and combinatorial assembly to generate a synthetically viable library of 500,000 acceptor–donor–acceptor (ADA) type NFAs, then uses evidential Message Passing Neural Networks (MPNNs) to predict key optoelectronic properties with uncertainty quantification.
+This project implements a comprehensive computational framework that integrates data-driven molecular design with uncertainty-aware machine learning to accelerate the discovery of high-performance non-fullerene acceptors for organic photovoltaics (OPVs). Starting from a curated dataset of 257 NFAs, the framework applies automated fragmentation, hierarchical clustering, and combinatorial assembly to generate a synthetically viable library of 500,000 acceptor–donor–acceptor (ADA) type NFAs, then uses evidential Message Passing Neural Networks (MPNNs) to predict key optoelectronic properties with uncertainty quantification.
 
 ## Paper
 
@@ -14,7 +14,7 @@ This repository contains code and documentation for the paper:
 Bibhas Das¹, Kalyani Patrikar¹, Atharva Sachin Keny², and Anirban Mondal¹,*
 
 ¹Department of Chemistry, Indian Institute of Technology Gandhinagar, Gujarat, 382355, India  
-²[Institution to be specified]
+²Computer Science and Engineering, Indian Institute of Technology Goa, Goa, 403401, India
 
 *Email: amondal@iitgn.ac.in
 
