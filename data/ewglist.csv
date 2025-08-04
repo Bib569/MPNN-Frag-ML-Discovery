@@ -1,0 +1,14 @@
+	EWG,SMILES
+          -F, F 
+          -Cl, Cl
+          -Br, Br
+          -CHO , C=O
+          -CO , C(=O)
+          -CO2 , C(=O)O
+          -CONH2 , C(=O)N
+          -CN , C#N
+          -SO3H , S(=O)(=O)O
+          -NO2 , [N+](=O)[O-]
+          -CF3 , C(F)(F)F
+          -CCl3 , C(Cl)(Cl)Cl
+          -CBr3,C(Br)(Br)Br
