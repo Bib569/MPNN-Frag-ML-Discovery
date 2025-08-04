@@ -1,0 +1,49 @@
+# Core scientific computing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Molecular chemistry and cheminformatics
+rdkit-pypi>=2022.3.1
+
+# Machine learning and neural networks
+scikit-learn>=1.0.0
+torch>=1.12.0
+dgl>=0.9.0
+dgllife>=0.2.8
+
+# Hyperparameter optimization
+optuna>=3.0.0
+
+# Visualization and plotting
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter notebook support
+IPython>=7.0.0
+
+# Additional utilities
+tqdm>=4.60.0
+joblib>=1.1.0
+
+# Optional: For enhanced molecular visualization
+py3Dmol>=1.8.0
+
+# Optional: For additional molecular descriptors
+mordred>=1.2.0
+
+# Note: Built-in packages used (no installation required):
+# - json
+# - csv  
+# - logging
+# - multiprocessing
+# - time
+# - sys
+# - os
+# - datetime
+# - itertools
+# - math
+# - collections
+# - random
+# - warnings
+# - typing
+# - pickle
