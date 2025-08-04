@@ -1,0 +1,20 @@
+Conjugated Extensions Smiles,Conjugated Extension to Donor Tags,Conjugated Extension to Acceptors Tags,Conjugated Extension to Side Chains Tags
+IC1(I)C2=CC3=C(C=C2C2=C1C=[C]([BaH])S2)C(I)(I)C1=C3SC(C2=CC=C3C4=C[C]([Fr])=[C]([Tl])C5C4=C(C=[C]([Fr])[CH]5[Tl])C4=CC=CC2=C34)=C1,[56],"[81, 81]","[53, 53, 53, 53, 87, 87]"
+[Ta][C]1=CC2=C3C(=C[C]([Ta])=[C]([Au])C3[CH]1[Au])C1=CC=C(C3=CC4=C(S3)[C]([Rf])=C3C=[C]([Th])SC3=[C]4[Rf])C3=C1C2=CC=C3,[90],"[79, 79]","[104, 104, 73, 73]"
+[SnH][C]1=[C]([Am])C=C2C3=CC=C(C4=CC5=C(C=[C]([BiH2])S5)S4)C4=C3C(=CC=C4)C3=C2C1[CH]([SnH])[C]([Am])=C3,[83],"[50, 50]","[95, 95]"
+[Ds][C]1=[C]([Rg])C=C2C3=CC=C(C4=CC=C(C5=CC=[C]([Ts])S5)S4)C4=C3C(=CC=C4)C3=C2C1[CH]([Ds])[C]([Rg])=C3,[117],"[110, 110]","[111, 111]"
+[Ce][C]1=[C]([Nh])C=C2C3=CC=C(C4=CC=[C]([Mc])C=C4)C4=C3C(=CC=C4)C3=C2C1[CH]([Ce])[C]([Nh])=C3,[115],"[58, 58]","[113, 113]"
+[BaH][C]1=CC2=C3C(=C[C]([BaH])=[C]([Pa])C3[CH]1[Pa])C1=CC=C(C3=CC=[C]([Th])S3)C3=C1C2=CC=C3,[90],"[91, 91]","[56, 56]"
+[XeH]C1=CC2=C3C(=CC([XeH])=[C]([Pm])C3[CH]1[Pm])C1=CC=C(C3=CC=C(C4=CC=C(C5=CC=[C]([Ir])S5)S4)S3)C3=C1C2=CC=C3,[77],"[61, 61]","[54, 54]"
+CCCCC(CC)COC1=C2S[C]([RaH])=CC2=[C]([Cm])C2=C1C=C(C1=CC=C3C4=C[C]([Lr])=[C]([Rf])C5C4=C(C=[C]([Lr])[CH]5[Rf])C4=CC=CC1=C34)S2,[88],"[104, 104]","[96, 103, 103]"
+CCCCCCCCC1([At])C2=C(C=CC(C3=C4C=CC=C5C6=CC=[C]([Pr])C7=C6C(=CC=[C]7[Pr])C(=C54)C=C3)=C2)C2C=C[C]([Nd])=CC21,[60],"[59, 59]",[85]
+NCC(CC1=CC=C(CC(CN)C2=CC=C(C3=CC=[C]([Lr])C4=C3C=CC=[C]4[Lr])S2)C=C1)C1=CC=[C]([Pt])S1,[78],"[103, 103]",[]
+[Au][CH2]CCCC1=CC=[C]([Bk])C2=[C]([Bk])C=CC=C12,[79],"[97, 97]",[]
+IC1=C(I)C=C(C[CH2][Ta])C=C1,[73],"[53, 53]",[]
+[Yb][CH2]CC1=N[C]([Pu])=[C]([Pu])C=C1,[70],"[94, 94]",[]
+[Er][C]1=[C]([Er])N=CC(C[CH2][Sg])=C1,[106],"[68, 68]","[68, 68]"
+[Yb][C]1=[C]([Yb])SC(C[CH2][Pu])=C1,[94],"[70, 70]",[]
+[SbH2][CH]([Lu])[Ac],[],[51],"[89, 71]"
+[Sm][C]1=CC=C(C2=CC=[C]([Fl])C3=NSN=C23)O1,[114],[62],[]
+[Fm][C]1=CC=C(CCC2=CC=[C]([Bh])[C]([Bh])=C2)S1,[100],"[107, 107]","[107, 107]"
+[Tl][C]1=CC=[C]([Es])C2=N[N]([PbH])N=C12,[99],[81],[82]
