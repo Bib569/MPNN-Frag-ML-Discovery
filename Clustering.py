@@ -48,7 +48,7 @@ def untag_donor(mol):
 
 # Load and process the data
 print("Loading ADA_Data_With_Tags.csv...")
-df = pd.read_csv("data/ADA_Data_With_Tags_filtered_5.csv")
+df = pd.read_csv("data/ADA_Data_With_Tags_filtered.csv")
 
 # Process and clean the data
 print("Processing tagged SMILES data...")
@@ -318,4 +318,5 @@ print("- D.csv (for parallel generation)")
 print("- A.csv (for parallel generation)")
 print("- S.csv (for parallel generation)")
 print("- C.csv (for parallel generation)")
+
 print("- Join_ADA.csv (combined data)")
