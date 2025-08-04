@@ -1,4 +1,4 @@
-# NFA-ML-Discovery
+# MPNN-Frag-ML-Discovery
 An uncertainty-aware machine learning framework for high-throughput design of non-fullerene acceptors (NFAs) through automated fragmentation, hierarchical clustering, and evidential neural networks with built-in uncertainty quantification.
 
 ## Overview
