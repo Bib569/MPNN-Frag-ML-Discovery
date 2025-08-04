@@ -54,8 +54,8 @@ def create_sample_data_template():
     }
     
     template_df = pd.DataFrame(template_data)
-    template_df.to_csv('data/Datasheet_Filtered_CorrelationPlot_5_TEMPLATE.csv', index=False)
-    print("✓ Created data template: data/Datasheet_Filtered_CorrelationPlot_5_TEMPLATE.csv")
+    template_df.to_csv('data/Datasheet-I_TEMPLATE.csv', index=False)
+    print("✓ Created data template: data/Datasheet-I_TEMPLATE.csv")
     
     # Instructions file
     instructions = """
@@ -122,4 +122,5 @@ def main():
     print("\nFor more information, see README.md")
 
 if __name__ == "__main__":
+
     main()
